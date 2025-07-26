@@ -10,6 +10,12 @@ Server Emoji Clone
 
 Server Sticker Clone
 
+# Preview
+
+<p align="center">
+  <img src="preview.jpg" alt="Tool Preview" width="700" />
+</p>
+
 # Installation
 ```
 git clone https://github.com/yup-console/Cloner
