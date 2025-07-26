@@ -3,6 +3,7 @@ Presence
 discord
 asyncio
 colorama
+rich
 fore
 pystyle
 psutil
