@@ -3,8 +3,11 @@ Discord Server Cloner Made In Python
 
 # Features
 Server Channel Clone
+
 Server Role Clone
+
 Server Emoji Clone
+
 Server Sticker Clone
 
 # Setup
@@ -17,4 +20,5 @@ python cloner.py
 
 # How To Use
 Enter Bot/User Token In token.txt File
+
 Run The cloner.py File
