@@ -10,7 +10,7 @@ Server Emoji Clone
 
 Server Sticker Clone
 
-# Setup
+# Installation
 ```
 git clone https://github.com/yup-console/Cloner
 cd Cloner
