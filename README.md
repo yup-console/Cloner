@@ -22,3 +22,7 @@ python cloner.py
 Enter Bot/User Token In token.txt File
 
 Run The cloner.py File
+
+Enter Server Ids
+
+Then Let The Cloner Do Rest Of It :)
